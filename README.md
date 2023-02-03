@@ -3,5 +3,5 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="TG Badge"/>
+  <img src="https://img.shields.io/badge/Doneeel-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="TG Badge"/>
 </div>
