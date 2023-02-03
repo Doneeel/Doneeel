@@ -2,6 +2,6 @@
   <p>Doneeel</p>
 </div>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/Doneeel-white?logo=telegram&logoColor=blue&style=for-the-badge" alt="TG Badge"/>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/Doneeel-black?logo=telegram&logoColor=white&style=for-the-badge" alt="TG Badge"/>
 </div>
